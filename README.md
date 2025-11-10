@@ -3,7 +3,7 @@ Here’s a ready-made template designed for BCA  students:
 
 
 <!-- ✨ Greetings -->
-<h1 align="center">Hi 👋, I'm </h1>
+<h1 align="center">Hi 👋, I'm Sumit Chougule</h1>
 <h3 align="center">🚀 A Passionate Software Engineer | BCA 2nd Year Student | India 🇮🇳</h3>
 
 <p align="center">
